@@ -7,3 +7,6 @@ Spam des gifs cringe et fait un BSOD si on essaie d'ouvrir un CMD, le registre e
 Crée en 2020 (j'avais presque 15 ans c'est pas beau ça?)
 
 Evidemment en VB.NET parce que c'est la simplicité ptdrr
+
+Ne pas lancer l'exe généré sur son propre PC sauf si tu sais ce que tu fait.
+Fait gaffe quand même frérot je suis pas résponsable.
